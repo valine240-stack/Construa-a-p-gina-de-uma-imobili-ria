@@ -1,0 +1,153 @@
+div {
+    margin: 0;
+    font-family: Tahoma;
+    text-align: center;
+    padding: 30px 30px;
+}
+
+p {
+    margin: 10px auto;
+    text-align: justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.menu{
+    background-color: #afddfb;
+    font-size: 18px;
+    color: #1d1d1d;
+    margin: 0 10px 0 10px;
+    
+
+}
+
+.menu img{
+    width: 150px;
+    background-color: #afddfb;
+}
+
+.menu a{
+    background-color: #afddfb;
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.menu p{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.fotosolo{
+    border-top: 50px;
+    padding: 0px;
+    width: auto;
+}
+
+span{
+    font-weight: bold;
+    color: #fff81b;
+}
+
+.cor-azul{
+    font-weight: bold;
+    color: #1d80c1;
+}
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: #1c81c0;
+}
+
+.Sobre img{
+    width: 450px;
+}
+
+.Servicos{
+    background-color: #1d80c1;
+}
+
+h3{ 
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.Servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.Servicos ul{
+   margin: 40px auto;
+   width: 135px;
+}
+
+.Servicos li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.Corretores h3{
+     color: #1d1d1d;
+    margin-bottom: 5px;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.Corretores img{
+    width: 450px;
+}
+
+.Contato {
+    background-color: #1d80c1;
+}
+
+.Contato h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.Contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Contato ul{
+    margin: 40px auto;
+    width: 210px;
+    list-style-type: none;
+}
+
+.Contato li{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.Contato a{
+    color:#ffffff;
+    background-color: #1d1d1d;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
